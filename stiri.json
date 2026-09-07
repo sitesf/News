@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-07T13:59:29.644914+00:00",
-  "updated_at_afisaj": "7 septembrie 2026, 16:59",
+  "updated_at": "2026-09-07T19:42:08.884655+00:00",
+  "updated_at_afisaj": "7 septembrie 2026, 22:42",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,62 @@
   },
   "numar_stiri": 133,
   "stiri": [
+    {
+      "id": "2683d147bfe0",
+      "titlu": "Mihai Stoica îi răspunde lui Ianis Zicu în disputa publică",
+      "rezumat": "Mihai Stoica, oficial al FCSB, a răspuns acuzațiilor de ipocrizie lansate de Ianis Zicu, fost jucător și antrenor, afirmând că deține mesaje care îi susțin poziția. Disputa verbală dintre cele două personalități din fotbalul românesc continuă să genereze discuții în spațiul public, reflectând tensiunile existente în Liga 1. Acest schimb de replici subliniază rivalitățile și dinamica relațiilor dintre actorii principali ai campionatului intern.",
+      "categorie": "Fotbal",
+      "surse": [
+        "GSP.ro",
+        "ProSport.ro"
+      ],
+      "data_publicare": "2026-09-07T19:42:08.877593+00:00",
+      "data_afisaj": "7 septembrie 2026, 22:42"
+    },
+    {
+      "id": "e27685ac39bd",
+      "titlu": "Noua înregistrare video confirmă hențul lui Williams, dar controversele VAR persistă",
+      "rezumat": "O nouă înregistrare video a confirmat că mingea a atins brațul fundașului Neco Williams de la Nottingham Forest înainte de golul său anulat împotriva echipei Tottenham. Această dovadă suplimentară, deși clarifică faza, nu este de așteptat să pună capăt controverselor legate de sistemul VAR și de deciziile arbitrilor în Premier League, continuând să alimenteze dezbaterile privind implementarea tehnologiei în fotbal.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-07T19:42:08.879465+00:00",
+      "data_afisaj": "7 septembrie 2026, 22:42"
+    },
+    {
+      "id": "c55589c6fee6",
+      "titlu": "Arsenal, un start de sezon aproape perfect în Premier League",
+      "rezumat": "Arsenal a avut un început de sezon aproape perfect, câștigând toate cele trei meciuri din campionat și demonstrând o autoritate și o prospețime care le-au lipsit uneori în stagiunea precedentă. Echipa lui Mikel Arteta a dominat confortabil fiecare partidă, consolidându-și poziția de pretendent serios la titlu. Această formă excelentă sugerează că \"tunarii\" sunt pregătiți să lupte pentru trofeul Premier League, având în vedere și performanțele solide ale principalilor rivali.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-07T19:42:08.881102+00:00",
+      "data_afisaj": "7 septembrie 2026, 22:42"
+    },
+    {
+      "id": "3a1b4fa897ef",
+      "titlu": "Mijlocul terenului, o problemă pentru Chelsea în fața presiunii lui Arsenal",
+      "rezumat": "Mijlocul terenului a reprezentat o problemă majoră pentru Chelsea în recenta confruntare cu Arsenal, unde echipa lui Xabi Alonso a fost dominată tactic. Absența lui Moisés Caicedo s-a resimțit puternic, creând un decalaj semnificativ între cele două formații. Această dificultate în zona mediană ridică semne de întrebare cu privire la strategia și echilibrul echipei, punând presiune pe antrenor să găsească soluții pentru a îmbunătăți performanța în meciurile viitoare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-07T19:42:08.882882+00:00",
+      "data_afisaj": "7 septembrie 2026, 22:42"
+    },
+    {
+      "id": "7a0e62b4fb20",
+      "titlu": "Fereastra de transferuri de vară 2026 s-a încheiat în marile ligi europene",
+      "rezumat": "Fereastra de transferuri de vară din 2026 s-a încheiat, aducând o serie de mutări semnificative în cele cinci mari ligi europene: Premier League, La Liga, Bundesliga, Ligue 1 și Serie A. Cluburile au finalizat achizițiile și vânzările de jucători, conturând loturile pentru noul sezon. Un ghid detaliat, club cu club, este disponibil pentru a analiza impactul acestor tranzacții asupra forței echipelor și a echilibrului de putere în campionatele de top.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-07T19:42:08.884634+00:00",
+      "data_afisaj": "7 septembrie 2026, 22:42"
+    },
     {
       "id": "5b4a893851ba",
       "titlu": "Harry Kane, la 33 de ani: „Sunt la apogeu fizic și mental”, respinge discuțiile despre retragere",
@@ -1461,65 +1517,6 @@
       ],
       "data_publicare": "2026-08-31T21:23:00.866203+00:00",
       "data_afisaj": "1 septembrie 2026, 00:23"
-    },
-    {
-      "id": "efad3216f252",
-      "titlu": "Lionel Messi se retrage din fotbalul internațional",
-      "rezumat": "Legendarul fotbalist argentinian Lionel Messi a anunțat că se retrage din echipa națională, declarând că a fost o decizie care l-a „dureros”, dar înțelege că „a sosit momentul”. Această veste marchează sfârșitul unei ere pentru naționala Argentinei, unde Messi a fost o figură centrală și căpitan pentru mulți ani. Decizia vine după o carieră internațională plină de succese, inclusiv câștigarea Cupei Mondiale. Retragerea sa va lăsa un gol imens în echipa națională și în inimile fanilor din întreaga lume.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-31T15:51:40.959537+00:00",
-      "data_afisaj": "31 august 2026, 18:51"
-    },
-    {
-      "id": "c5c6b99b05d8",
-      "titlu": "Newcastle United este aproape de a semna cu Matias Fernandez-Pardo într-o tranzacție de 55 de milioane de lire sterline",
-      "rezumat": "Newcastle United se apropie de finalizarea transferului atacantului Matias Fernandez-Pardo de la clubul francez Lille. Acordul este evaluat la o sumă de până la 55 de milioane de lire sterline. Această mutare ar reprezenta o întărire semnificativă pentru linia ofensivă a lui Newcastle, în contextul ambițiilor clubului de a concura la cel mai înalt nivel în Premier League și în competițiile europene. Fernandez-Pardo este considerat un jucător cu un potențial mare de dezvoltare.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-31T15:51:40.962527+00:00",
-      "data_afisaj": "31 august 2026, 18:51"
-    },
-    {
-      "id": "edd091c4adc9",
-      "titlu": "Everton a făcut o ofertă pentru atacantul Folarin Balogun de la Monaco",
-      "rezumat": "Clubul englez Everton a înaintat o ofertă pentru atacantul Folarin Balogun, legitimat la AS Monaco. Jucătorul este evaluat de clubul francez la aproximativ 40 de milioane de lire sterline. Această mișcare indică intenția lui Everton de a-și consolida atacul înainte de închiderea ferestrei de transferuri, Balogun fiind un jucător cu potențial considerabil, căutat de mai multe echipe din Europa. Negocierile sunt în desfășurare, iar un acord ar putea fi iminent.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-31T15:51:40.965297+00:00",
-      "data_afisaj": "31 august 2026, 18:51"
-    },
-    {
-      "id": "0c6828b07b05",
-      "titlu": "Arsenal încearcă să-l aducă pe Julián Álvarez după ce a acceptat vânzarea lui Martinelli",
-      "rezumat": "Arsenal depune eforturi pentru a-l convinge pe Julián Álvarez să se alăture clubului, după ce a ajuns la un acord pentru vânzarea lui Gabriel Martinelli la Al-Hilal. Deși Gabriel Jesus este menționat ca fiind aproape de Barcelona (știre deja publicată), focusul este pe încercarea lui Arsenal de a-l achiziționa pe Álvarez de la Atlético Madrid. Această mișcare ar putea reconfigura semnificativ ofensiva \"tunarilor\" în noul sezon, aducând un atacant de calibru.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-31T14:55:43.424059+00:00",
-      "data_afisaj": "31 august 2026, 17:55"
-    },
-    {
-      "id": "3e006d35ed0a",
-      "titlu": "Valencia, interesată de împrumutul lui Harvey Elliott de la Liverpool",
-      "rezumat": "Clubul spaniol Valencia se află în discuții avansate cu Liverpool pentru a obține împrumutul mijlocașului Harvey Elliott pentru restul sezonului. Tânărul talent englez ar putea beneficia de mai mult timp de joc în La Liga, o oportunitate de dezvoltare importantă. Această mutare ar oferi lui Elliott experiență prețioasă într-un campionat de top, în timp ce Valencia ar adăuga un jucător creativ la mijlocul terenului, consolidându-și opțiunile pentru linia mediană.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-31T14:55:43.425563+00:00",
-      "data_afisaj": "31 august 2026, 17:55"
     }
   ]
 }
