@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-07T19:42:08.884655+00:00",
-  "updated_at_afisaj": "7 septembrie 2026, 22:42",
+  "updated_at": "2026-09-07T20:18:58.754533+00:00",
+  "updated_at_afisaj": "7 septembrie 2026, 23:18",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 133,
+  "numar_stiri": 138,
   "stiri": [
+    {
+      "id": "aa45a280cd70",
+      "titlu": "Poate Harry Kane să sfideze istoria și să câștige Balonul de Aur?",
+      "rezumat": "Istoria recentă a Balonului de Aur arată că majoritatea câștigătorilor au ridicat anterior unul dintre cele mai prestigioase trofee din fotbal. Se pune întrebarea dacă Harry Kane, un jucător de top fără un trofeu major recent la nivel de club sau internațional, poate deveni o excepție rară și să obțină râvnitul premiu individual. Analiza se concentrează pe performanțele sale excepționale și pe contextul în care ar putea fi recunoscut, în ciuda acestei tendințe istorice.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-07T20:18:58.746976+00:00",
+      "data_afisaj": "7 septembrie 2026, 23:18"
+    },
+    {
+      "id": "e5ec38abd163",
+      "titlu": "Cine va fi noul director sportiv al lui Liverpool și ce provocări îl așteaptă?",
+      "rezumat": "Clubul Liverpool caută un succesor pentru Richard Hughes în funcția de director sportiv, iar lista potențialilor candidați este analizată. Pe lângă identificarea persoanei potrivite, noul director se va confrunta cu numeroase sarcini și provocări strategice, esențiale pentru viitorul clubului. Acestea includ gestionarea transferurilor, dezvoltarea academiei și asigurarea stabilității pe termen lung a echipei, într-un mediu competitiv al fotbalului european.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-07T20:18:58.748826+00:00",
+      "data_afisaj": "7 septembrie 2026, 23:18"
+    },
+    {
+      "id": "1d4ad906d650",
+      "titlu": "Edu părăsește Nottingham Forest după o perioadă turbulentă",
+      "rezumat": "Edu, șeful global de fotbal al clubului Nottingham Forest, a plecat de la echipă după puțin peste un an petrecut pe City Ground. Mandatul său a fost marcat de o serie de evenimente și decizii controversate, care au generat discuții în rândul suporterilor și al presei. Plecarea sa deschide o nouă etapă pentru club, care va trebui să găsească un înlocuitor pentru a gestiona strategia sportivă și a asigura stabilitatea pe termen lung.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-07T20:18:58.750482+00:00",
+      "data_afisaj": "7 septembrie 2026, 23:18"
+    },
+    {
+      "id": "feeeffc4f167",
+      "titlu": "Anglia se confruntă cu o problemă la poziția de număr nouă după transferul lui Ollie Watkins în Arabia Saudită",
+      "rezumat": "Odată cu transferul lui Ollie Watkins în Arabia Saudită și cu Ivan Toney evoluând de asemenea în campionatul saudit, ambii jucători fiind trecuți de 30 de ani, echipa națională a Angliei se confruntă cu o provocare la poziția de atacant central. Această situație creează un moment oportun pentru a reîmprospăta linia ofensivă a \"Leilor\" în perspectiva Campionatului European din 2028, oferind șanse noi tinerilor talente.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-09-07T20:18:58.752508+00:00",
+      "data_afisaj": "7 septembrie 2026, 23:18"
+    },
+    {
+      "id": "0f36e6efbf62",
+      "titlu": "Putellas, eclipsată la debut de Cascarino, dar rămâne un pilon pentru succesul lui London City",
+      "rezumat": "În prima etapă a Women's Super League, debutul Alexiei Putellas la London City a fost marcat de o prestație solidă, însă a fost eclipsată de evoluția impresionantă a lui Cascarino. Chiar și așa, Putellas este considerată un element central și un pilon esențial pentru strategia și succesul pe termen lung al echipei London City. Analiza se concentrează pe impactul jucătoarelor cheie și pe dinamica noii sezoane din fotbalul feminin de top.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-09-07T20:18:58.754514+00:00",
+      "data_afisaj": "7 septembrie 2026, 23:18"
+    },
     {
       "id": "2683d147bfe0",
       "titlu": "Mihai Stoica îi răspunde lui Ianis Zicu în disputa publică",
