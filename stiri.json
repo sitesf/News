@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-07T20:18:58.754533+00:00",
-  "updated_at_afisaj": "7 septembrie 2026, 23:18",
+  "updated_at": "2026-09-08T12:02:11.874231+00:00",
+  "updated_at_afisaj": "8 septembrie 2026, 15:02",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 138,
+  "numar_stiri": 135,
   "stiri": [
+    {
+      "id": "d5a357013a1c",
+      "titlu": "Cine sunt favoriții Ligii Campionilor și jucătorii de urmărit?",
+      "rezumat": "Liga Campionilor a revenit, iar BBC Sport analizează cine sunt favoriții la câștigarea titlului, plus predicții de la experți.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-08T12:02:07.536531+00:00",
+      "data_afisaj": "8 septembrie 2026, 15:02"
+    },
+    {
+      "id": "1d06173dc7cc",
+      "titlu": "Newcastle se pregătea de 'luni de zile' pentru plecarea lui Howe",
+      "rezumat": "Directorul sportiv al lui Newcastle United, Ross Wilson, spune că clubul se pregătea pentru plecarea fostului antrenor principal Eddie Howe de până la nouă luni.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-08T12:02:07.538127+00:00",
+      "data_afisaj": "8 septembrie 2026, 15:02"
+    },
+    {
+      "id": "e6b0b98ff7bd",
+      "titlu": "Edu pleacă de la Nottingham Forest după o perioadă turbulentă",
+      "rezumat": "Șeful global de fotbal Edu pleacă de la Nottingham Forest după puțin peste un an petrecut pe City Ground.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-08T12:02:07.539542+00:00",
+      "data_afisaj": "8 septembrie 2026, 15:02"
+    },
+    {
+      "id": "fc3fdc9299bd",
+      "titlu": "Mourinho, Inter și Liga Campionilor: Poate livra din nou la Real Madrid?",
+      "rezumat": "Jose Mourinho își începe al doilea mandat la Real Madrid în Liga Campionilor împotriva fostului său club Inter Milano, la 16 ani după ce a câștigat trofeul cu Inter pe Bernabeu. Va aduce în sfârșit gloria europeană la Madrid?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-08T12:02:07.541143+00:00",
+      "data_afisaj": "8 septembrie 2026, 15:02"
+    },
+    {
+      "id": "98f03be8b577",
+      "titlu": "De la ligi inferioare la Liga Campionilor: Antrenorul lui Porto care vrea să uimească pe Man City",
+      "rezumat": "Antrenorul lui Porto, Francesco Farioli, este unul dintre cei mai apreciați tineri manageri și marți va prelua conducerea în Liga Campionilor pentru prima dată.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-08T12:02:07.542722+00:00",
+      "data_afisaj": "8 septembrie 2026, 15:02"
+    },
     {
       "id": "aa45a280cd70",
       "titlu": "Poate Harry Kane să sfideze istoria și să câștige Balonul de Aur?",
@@ -1477,101 +1532,6 @@
       ],
       "data_publicare": "2026-09-01T12:25:32.997636+00:00",
       "data_afisaj": "1 septembrie 2026, 15:25"
-    },
-    {
-      "id": "27b4208825f4",
-      "titlu": "Arsenal obține o victorie dificilă împotriva lui Aston Villa",
-      "rezumat": "Arsenal, campioana en-titre a Premier League, a reușit să obțină o victorie muncită cu 1-0 în deplasare împotriva lui Aston Villa. Unicul gol al partidei a fost marcat de Bukayo Saka în a doua repriză, asigurând cele trei puncte pentru \"tunari\". Această victorie contribuie la menținerea unui start bun de sezon pentru echipa lui Mikel Arteta, în ciuda unei prestații nu tocmai imperiale. Aston Villa a înregistrat astfel a doua înfrângere consecutivă în campionat fără a marca.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-31T21:43:51.509196+00:00",
-      "data_afisaj": "1 septembrie 2026, 00:43"
-    },
-    {
-      "id": "a431df0dadde",
-      "titlu": "Tottenham se apropie de transferurile lui Mykhailo Mudryk și Tosin Adarabioyo de la Chelsea",
-      "rezumat": "Chelsea a acceptat ofertele venite de la Tottenham Hotspur pentru aripa Mykhailo Mudryk și fundașul Tosin Adarabioyo. Această dublă mutare ar consolida semnificativ lotul lui Tottenham înainte de închiderea ferestrei de transferuri. De asemenea, portarul Robert Sanchez de la Chelsea este pe cale să se alăture clubului italian Como, după ce o ofertă a fost acceptată. Detaliile financiare ale acestor tranzacții nu au fost încă oficializate, dar se așteaptă anunțuri în curând.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-31T21:43:51.511583+00:00",
-      "data_afisaj": "1 septembrie 2026, 00:43"
-    },
-    {
-      "id": "d9a3bc1d6925",
-      "titlu": "FIFA extinde interdicția la nivel mondial pentru un fost oficial acuzat de filmări secrete",
-      "rezumat": "Federația Internațională de Fotbal (FIFA) a extins la nivel mondial interdicția pentru un fost oficial de meci și angajat al clubului austriac SCR Altach. Acesta a fost găsit vinovat de realizarea de videoclipuri și fotografii secrete cu membre ale echipei feminine a clubului. Decizia FIFA vine în urma presiunii exercitate de sindicatele jucătorilor și subliniază angajamentul organizației de a proteja integritatea și siguranța în fotbalul feminin, condamnând astfel de abateri.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-08-31T21:43:51.512781+00:00",
-      "data_afisaj": "1 septembrie 2026, 00:43"
-    },
-    {
-      "id": "b42e462f9626",
-      "titlu": "Man City agree £65m deal for Everton's Ndiaye",
-      "rezumat": "Manchester City agree a deal worth a minimum £60m to sign Iliman Ndiaye from Everton.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-31T21:23:00.860954+00:00",
-      "data_afisaj": "1 septembrie 2026, 00:23"
-    },
-    {
-      "id": "605bd802c0c6",
-      "titlu": "Man City's £80m move for Gakpo close to collapse",
-      "rezumat": "Manchester City's proposed £80m move for Liverpool forward Cody Gakpo is close to collapsing.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-31T21:23:00.862301+00:00",
-      "data_afisaj": "1 septembrie 2026, 00:23"
-    },
-    {
-      "id": "d81a5b4f1f4d",
-      "titlu": "Everton agree £40m fee for Monaco striker Balogun",
-      "rezumat": "Everton agree a £40m deal with Monaco for United States striker Folarin Balogun.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-08-31T21:23:00.863558+00:00",
-      "data_afisaj": "1 septembrie 2026, 00:23"
-    },
-    {
-      "id": "6dc39faf2ac4",
-      "titlu": "Is now the right time for Djokovic to retire after 'heart-breaking' US Open loss?",
-      "rezumat": "Novak Djokovic said he \"despised\" every moment of the five-set, near five-hour ordeal which ended his US Open hopes in the first round, so now the question is whether he calls time on his trophy-laden career.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "World Soccer"
-      ],
-      "data_publicare": "2026-08-31T21:23:00.864976+00:00",
-      "data_afisaj": "1 septembrie 2026, 00:23"
-    },
-    {
-      "id": "a38cf4332d56",
-      "titlu": "How Messi's decade of dominance almost never happened",
-      "rezumat": "Lionel Messi's decade of dominance with Argentina that almost never happened will go down as one of football's greatest ever stories.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-08-31T21:23:00.866203+00:00",
-      "data_afisaj": "1 septembrie 2026, 00:23"
     }
   ]
 }
