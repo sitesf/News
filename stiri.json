@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-08T12:38:02.273010+00:00",
-  "updated_at_afisaj": "8 septembrie 2026, 15:38",
+  "updated_at": "2026-09-08T19:19:45.096439+00:00",
+  "updated_at_afisaj": "8 septembrie 2026, 22:19",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,67 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 135,
+  "numar_stiri": 133,
   "stiri": [
+    {
+      "id": "3a54aa2fc6ae",
+      "titlu": "Mac Allister, dezamăgit de lipsa unei oferte de prelungire a contractului de la Liverpool",
+      "rezumat": "Mijlocașul lui Liverpool, Alexis Mac Allister, a declarat că este \"foarte trist\" că nu i s-a oferit un nou contract de către club și că a avut \"opțiuni\" de a pleca în vară. Această situație ridică semne de întrebare cu privire la viitorul său pe Anfield, mai ales în contextul în care jucătorul a fost o piesă importantă în angrenajul echipei. Declarațiile sale sugerează o posibilă nemulțumire față de managementul clubului în privința negocierilor contractuale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-08T19:19:45.088963+00:00",
+      "data_afisaj": "8 septembrie 2026, 22:19"
+    },
+    {
+      "id": "c41e7761392d",
+      "titlu": "Alessia Russo și Alex Greenwood, nominalizate la Balonul de Aur feminin",
+      "rezumat": "Vedetele Angliei, Alessia Russo și Alex Greenwood, se numără printre cele 30 de jucătoare nominalizate la Balonul de Aur feminin. Această recunoaștere subliniază performanțele lor excepționale la nivel de club și internațional, consolidându-le statutul de jucătoare cheie în fotbalul feminin. Nominalizările reflectă creșterea și importanța tot mai mare a fotbalului feminin la nivel global, aducând în prim-plan talentele individuale.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-08T19:19:45.090653+00:00",
+      "data_afisaj": "8 septembrie 2026, 22:19"
+    },
+    {
+      "id": "26b6d5d558b4",
+      "titlu": "Atacul lui Aston Villa a funcționat perfect în victoria spectaculoasă din Liga Campionilor",
+      "rezumat": "Aston Villa a oferit o demonstrație ofensivă superbă, punând capăt problemelor de marcare și începând campania din Liga Campionilor cu o victorie palpitantă, scor 3-2, împotriva echipei Club Brugge. Această performanță a arătat o îmbunătățire semnificativă în faza de atac a echipei, oferind încredere pentru meciurile viitoare din competiția europeană. Rezultatul este un impuls moral important pentru formația engleză.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-08T19:19:45.092617+00:00",
+      "data_afisaj": "8 septembrie 2026, 22:19"
+    },
+    {
+      "id": "81eeeea0ee03",
+      "titlu": "Acțiune legală împotriva FIFA, extinsă pentru a include \"conduita abuzivă\" față de fotbalul feminin",
+      "rezumat": "Acțiunea legală inițiată de ligile europene de top și de sindicatul global al jucătorilor Fifpro împotriva FIFA a fost extinsă pentru a include \"conduita abuzivă\" a organismului mondial de conducere față de fotbalul feminin. Această decizie subliniază preocupările crescânde legate de tratamentul și sprijinul acordat fotbalului feminin la nivel global, cerând o mai mare responsabilitate din partea FIFA.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-08T19:19:45.094581+00:00",
+      "data_afisaj": "8 septembrie 2026, 22:19"
+    },
+    {
+      "id": "daaecb23a424",
+      "titlu": "Haosul din traficul aerian întârzie zborul lui Arsenal către Napoli pentru Liga Campionilor",
+      "rezumat": "Pregătirile lui Arsenal pentru meciul de deschidere din Liga Campionilor împotriva lui Napoli au fost perturbate din cauza haosului din traficul aerian care a afectat aeroporturile din Regatul Unit. Zborul echipei a fost sever întârziat, forțându-l pe Mikel Arteta să anuleze conferința de presă pre-meci de la Stadionul Diego Armando Maradona. Această situație logistică ar putea afecta programul și pregătirea finală a echipei înainte de confruntarea importantă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-08T19:19:45.096417+00:00",
+      "data_afisaj": "8 septembrie 2026, 22:19"
+    },
     {
       "id": "5df5556a76d1",
       "titlu": "No goals but Emery knows Villa's forwards need time",
@@ -1447,86 +1506,6 @@
       ],
       "data_publicare": "2026-09-01T19:42:43.790056+00:00",
       "data_afisaj": "1 septembrie 2026, 22:42"
-    },
-    {
-      "id": "f5760d2c7b38",
-      "titlu": "Juventus semnează cu Woltemade și Sarr sub formă de împrumut",
-      "rezumat": "Clubul italian Juventus a anunțat oficial achiziționarea atacantului Nick Woltemade de la Newcastle și a mijlocașului Pape Matar Sarr de la Tottenham Hotspur. Ambii jucători se alătură echipei din Torino sub formă de împrumut pe durata unui sezon complet. Această dublă mutare consolidează lotul lui Juventus pentru campania viitoare, aducând noi opțiuni ofensive și la mijlocul terenului, în încercarea de a-și atinge obiectivele în competițiile interne și europene.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-09-01T19:16:44.043064+00:00",
-      "data_afisaj": "1 septembrie 2026, 22:16"
-    },
-    {
-      "id": "0e4de37721fc",
-      "titlu": "Liverpool semnează cu tânărul portar Lucca Brughmans într-o tranzacție de până la 30 de milioane de lire sterline",
-      "rezumat": "Liverpool a finalizat achiziția tânărului portar Lucca Brughmans, într-o afacere evaluată la până la 30 de milioane de lire sterline. Transferul este programat să devină efectiv la începutul sezonului 2027-28. Această mutare strategică indică o investiție pe termen lung a clubului de pe Anfield în viitorul său, asigurându-și serviciile unui talent promițător pentru postul de portar. Clubul speră ca Brughmans să se dezvolte și să devină o piesă importantă în anii următori.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-09-01T19:16:44.045845+00:00",
-      "data_afisaj": "1 septembrie 2026, 22:16"
-    },
-    {
-      "id": "55811ed59e62",
-      "titlu": "Vivianne Miedema va rata începutul sezonului din Women's Super League din cauza unei accidentări la genunchi",
-      "rezumat": "Atacanta Vivianne Miedema, una dintre cele mai proeminente jucătoare din fotbalul feminin, va fi indisponibilă pentru startul noului sezon din Women's Super League. Accidentarea la genunchi o va ține pe marginea terenului, reprezentând o lovitură pentru echipa sa. Absența sa va fi resimțită, având în vedere contribuția sa semnificativă la performanțele anterioare ale clubului. Perioada exactă de recuperare nu a fost încă anunțată, dar se anticipează o absență prelungită.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-01T19:16:44.047414+00:00",
-      "data_afisaj": "1 septembrie 2026, 22:16"
-    },
-    {
-      "id": "6f81f2fa6814",
-      "titlu": "Celtic îl aduce pe Oliver Sorensen de la Parma sub formă de împrumut",
-      "rezumat": "Clubul scoțian Celtic a anunțat transferul mijlocașului Oliver Sorensen de la Parma, sub formă de împrumut. Această mutare vine în contextul în care antrenorul secund Shaun Maloney a indicat că echipa lucrează la finalizarea a până la patru noi achiziții înainte de termenul limită pentru înregistrarea lotului pentru Europa League. Sorensen va adăuga profunzime și opțiuni la mijlocul terenului pentru campioana Scoției, înaintea provocărilor din competițiile europene și interne.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-09-01T19:16:44.048743+00:00",
-      "data_afisaj": "1 septembrie 2026, 22:16"
-    },
-    {
-      "id": "d213bfbcb3cc",
-      "titlu": "Borussia Dortmund ajunge la un acord pentru împrumutul lui Ethan Nwaneri de la Arsenal",
-      "rezumat": "Clubul german Borussia Dortmund a convenit un acord cu Arsenal pentru a-l aduce pe tânărul mijlocaș Ethan Nwaneri sub formă de împrumut pe durata unui sezon. Nwaneri, considerat unul dintre cei mai promițători tineri talente din academia lui Arsenal, va avea ocazia să acumuleze experiență prețioasă în Bundesliga. Această mutare este văzută ca o oportunitate excelentă pentru dezvoltarea sa, oferindu-i un mediu competitiv pentru a-și demonstra abilitățile la nivel înalt.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-01T13:07:14.542758+00:00",
-      "data_afisaj": "1 septembrie 2026, 16:07"
-    },
-    {
-      "id": "b3fff559cdf6",
-      "titlu": "Universitatea Craiova a semnat cu un atacant brazilian adus de Gustavo",
-      "rezumat": "Universitatea Craiova a finalizat transferul unui atacant brazilian, adus la echipă prin intermediul lui Gustavo, fostul jucător al clubului. Noul atacant a semnat contractul după ce a fost monitorizat de mai multe cluburi din Europa, inclusiv din Portugalia și Belgia, conform surselor ProSport. Această achiziție strategică vine să întărească ofensiva echipei din Bănie, oferind noi opțiuni antrenorului și crescând competitivitatea lotului în vederea obiectivelor propuse pentru noul sezon.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-09-01T13:07:14.544125+00:00",
-      "data_afisaj": "1 septembrie 2026, 16:07"
-    },
-    {
-      "id": "6a30ca04f3b8",
-      "titlu": "Transferul lui Andrei Rațiu în Premier League a eșuat; un jucător de la Bayern ar putea veni în locul său",
-      "rezumat": "Transferul fundașului român Andrei Rațiu în Premier League a picat, conform informațiilor ProSport. Această veste vine după o perioadă de speculații intense privind o posibilă mutare a internaționalului român în campionatul englez. În locul său, se pare că un fotbalist de la Bayern Munchen ar putea fi adus pentru a ocupa poziția vizată. Detaliile despre jucătorul de la Bayern și motivele eșecului transferului lui Rațiu nu au fost încă pe deplin clarificate, dar situația indică o schimbare de planuri pentru clubul implicat.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-09-01T13:07:14.545853+00:00",
-      "data_afisaj": "1 septembrie 2026, 16:07"
     }
   ]
 }
