@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-08T12:02:11.874231+00:00",
-  "updated_at_afisaj": "8 septembrie 2026, 15:02",
+  "updated_at": "2026-09-08T12:38:02.273010+00:00",
+  "updated_at_afisaj": "8 septembrie 2026, 15:38",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,61 @@
   },
   "numar_stiri": 135,
   "stiri": [
+    {
+      "id": "5df5556a76d1",
+      "titlu": "No goals but Emery knows Villa's forwards need time",
+      "rezumat": "Aston Villa have not scored in their opening three Premier League games - how will antrenor Unai Emery find their attacking edge?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-08T12:37:44.694099+00:00",
+      "data_afisaj": "8 septembrie 2026, 15:37"
+    },
+    {
+      "id": "078959d27c62",
+      "titlu": "Como chiefs giving up seats to older fans for Champions League debut",
+      "rezumat": "Como president Mirwan Suwarso and several directors are giving up their tickets for the club's Champions League debut to allow elderly supporters to attend.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-08T12:37:44.695393+00:00",
+      "data_afisaj": "8 septembrie 2026, 15:37"
+    },
+    {
+      "id": "04af8f3c742e",
+      "titlu": "Can Kane buck history and win Ballon d'Or?",
+      "rezumat": "History suggests Ballon d’Or winners come from those who have recently lifted one of football's biggest trophies. Can Harry Kane become a rare exception?",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-08T12:37:44.696549+00:00",
+      "data_afisaj": "8 septembrie 2026, 15:37"
+    },
+    {
+      "id": "4a28fc3f16d9",
+      "titlu": "Flex your football brain with our daily quizzes",
+      "rezumat": "Test your ball knowledge against today's Who Am I?, Five in Five and Brainteaser.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-08T12:37:44.697679+00:00",
+      "data_afisaj": "8 septembrie 2026, 15:37"
+    },
+    {
+      "id": "1e6e3169bd6f",
+      "titlu": "Europe's next great coach? How Fabregas led Como into Champions League",
+      "rezumat": "BBC Sport visits Como to discover the vision and philosophy of the club's coach, Cesc Fabregas, who has overseen the team's remarkable rise to the Champions League.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-08T12:37:44.698948+00:00",
+      "data_afisaj": "8 septembrie 2026, 15:37"
+    },
     {
       "id": "d5a357013a1c",
       "titlu": "Cine sunt favoriții Ligii Campionilor și jucătorii de urmărit?",
@@ -1472,66 +1527,6 @@
       ],
       "data_publicare": "2026-09-01T13:07:14.545853+00:00",
       "data_afisaj": "1 septembrie 2026, 16:07"
-    },
-    {
-      "id": "08e7d8ad9319",
-      "titlu": "Aston Villa semnează cu Mbaye și Harwood-Bellis",
-      "rezumat": "Aston Villa a finalizat transferurile mijlocașului senegalez Ibrahim Mbaye de la Paris Saint-Germain și ale fundașului central englez Taylor Harwood-Bellis de la Southampton. Aceste achiziții consolidează lotul echipei înaintea continuării sezonului, aducând noi opțiuni pentru antrenor. Mbaye este un aripă rapidă, iar Harwood-Bellis un fundaș central solid, ambii fiind considerați talente promițătoare care vor contribui la obiectivele clubului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-01T12:25:32.992019+00:00",
-      "data_afisaj": "1 septembrie 2026, 15:25"
-    },
-    {
-      "id": "85bca7b7d730",
-      "titlu": "Prezentare generală a transferurilor finalizate în ziua limită",
-      "rezumat": "O recapitulare a celor mai importante transferuri și plecări înregistrate în Premier League, Scottish Premiership, EFL și Women's Super League în ultima zi a perioadei de mercato. Această sinteză oferă o imagine completă a mișcărilor de jucători care au avut loc, influențând semnificativ componența echipelor pentru sezonul în curs. Cluburile au lucrat intens pentru a-și finaliza loturile, iar lista include atât mutări majore, cât și tranzacții de ultim moment.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-09-01T12:25:32.993419+00:00",
-      "data_afisaj": "1 septembrie 2026, 15:25"
-    },
-    {
-      "id": "31f7621f7c19",
-      "titlu": "Everton ajunge la un acord pentru împrumutul lui Jack Grealish de la Manchester City",
-      "rezumat": "Everton a convenit un acord cu Manchester City pentru a-l readuce pe Jack Grealish la club sub formă de împrumut pe durata unui sezon. Această mutare marchează o revenire a mijlocașului la echipa unde a mai evoluat, oferind o soluție ofensivă importantă pentru \"Caramele\". Grealish va efectua vizita medicală, iar transferul este așteptat să fie oficializat în scurt timp, consolidând opțiunile ofensive ale lui Everton.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-09-01T12:25:32.994876+00:00",
-      "data_afisaj": "1 septembrie 2026, 15:25"
-    },
-    {
-      "id": "feedc6dd80e9",
-      "titlu": "Scott McTominay va rata meciurile Scoției din cauza unei probleme cardiace minore",
-      "rezumat": "Mijlocașul scoțian Scott McTominay va fi supus unei proceduri cardiace după descoperirea unei \"aritmii benigne ușoare\", a anunțat clubul său, Napoli. Această situație îl va împiedica pe jucător să participe la următoarele meciuri ale naționalei Scoției. Starea sa de sănătate este monitorizată, iar revenirea pe teren va depinde de recuperarea completă după intervenție, prioritatea fiind bunăstarea jucătorului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-01T12:25:32.996317+00:00",
-      "data_afisaj": "1 septembrie 2026, 15:25"
-    },
-    {
-      "id": "c8fbf0fae014",
-      "titlu": "Alan Knight, legenda portarilor de la Portsmouth, a decedat la 65 de ani",
-      "rezumat": "Fostul portar al echipei Portsmouth, Alan Knight, care a jucat 801 meciuri pentru club, a murit la vârsta de 65 de ani. Decesul survine după ce fusese diagnosticat cu cancer de prostată în 2024. Knight este considerat o figură emblematică pentru Portsmouth, fiind cel mai longeviv jucător din istoria clubului și un simbol al devotamentului față de echipa sa, lăsând în urmă o moștenire impresionantă.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-01T12:25:32.997636+00:00",
-      "data_afisaj": "1 septembrie 2026, 15:25"
     }
   ]
 }
