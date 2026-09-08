@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-08T19:19:45.096439+00:00",
-  "updated_at_afisaj": "8 septembrie 2026, 22:19",
+  "updated_at": "2026-09-08T19:41:43.539107+00:00",
+  "updated_at_afisaj": "8 septembrie 2026, 22:41",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,64 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 133,
+  "numar_stiri": 138,
   "stiri": [
+    {
+      "id": "a23a8869a8ac",
+      "titlu": "Harry Kane, Jude Bellingham și Declan Rice, nominalizați la Balonul de Aur 2026",
+      "rezumat": "Atacantul lui Bayern Munchen, Harry Kane, se numără printre cei trei jucători englezi nominalizați pentru Balonul de Aur 2026, alături de Jude Bellingham și Declan Rice. Această nominalizare confirmă performanțele remarcabile ale celor trei fotbaliști pe parcursul anului, plasându-i în cursa pentru prestigiosul trofeu individual. Lista completă a nominalizaților a fost anunțată, iar absența unor nume notabile, precum Cristiano Ronaldo, a stârnit discuții în lumea fotbalului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-09-08T19:41:43.531360+00:00",
+      "data_afisaj": "8 septembrie 2026, 22:41"
+    },
+    {
+      "id": "adf9eeb1682b",
+      "titlu": "Peste 100.000 de persoane au semnat o plângere împotriva președintelui FIFA, Gianni Infantino",
+      "rezumat": "Peste 100.000 de persoane au adăugat numele lor unei plângeri împotriva președintelui FIFA, Gianni Infantino. Plângerea, inițiată de campania \"Reboot Fifa\", susține că Infantino \"a abuzat de puterea sa, a încălcat datoria de neutralitate politică și datoria de loialitate\" prin interacțiunile sale cu Donald Trump. Această acțiune legală amplă subliniază preocupările legate de etica și conducerea forului mondial de fotbal, cerând o investigație aprofundată.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-08T19:41:43.533431+00:00",
+      "data_afisaj": "8 septembrie 2026, 22:41"
+    },
+    {
+      "id": "b2a832ce8e12",
+      "titlu": "Cluburile din Premier League riscă să piardă sponsori importanți din cauza interzicerii firmelor de jocuri de noroc fără licență",
+      "rezumat": "Jumătate dintre cele 20 de cluburi din Premier League au acorduri de sponsorizare sau publicitate cu companii de jocuri de noroc fără licență, care ar putea deveni ilegale anul viitor, conform planurilor guvernamentale. Această măsură ar putea duce la pierderi de zeci de milioane de lire sterline pentru cluburi, având un impact financiar semnificativ asupra ligii. O consultare publică pe această temă se încheie miercuri, cu operatorii licențiați susținând interdicția.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-08T19:41:43.535575+00:00",
+      "data_afisaj": "8 septembrie 2026, 22:41"
+    },
+    {
+      "id": "6809c16bb564",
+      "titlu": "Operația pe cord a lui Scott McTominay, un succes complet",
+      "rezumat": "Clubul Napoli a anunțat că intervenția chirurgicală pe cord suferită de mijlocașul scoțian Scott McTominay a fost un \"succes complet\". Se anticipează că jucătorul va relua antrenamentele în cursul acestei luni, o veste pozitivă pentru club și pentru cariera sa. Această actualizare medicală oferă claritate asupra stării de sănătate a fotbalistului și a perioadei sale de recuperare, confirmând că procesul decurge conform așteptărilor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-08T19:41:43.537316+00:00",
+      "data_afisaj": "8 septembrie 2026, 22:41"
+    },
+    {
+      "id": "b41da172802f",
+      "titlu": "Liverpool a semnat cel mai mare contract de sponsorizare pentru tricouri din istoria clubului",
+      "rezumat": "Liverpool a încheiat un nou acord de sponsorizare pentru partea frontală a tricourilor, descris ca fiind cel mai mare din istoria clubului. Această înțelegere va aduce o creștere semnificativă veniturilor anuale ale clubului, consolidând poziția financiară a \"Cormoranilor\" în comparație cu rivalii din Premier League. Detaliile financiare exacte nu au fost încă dezvăluite public, dar impactul asupra bugetului clubului este considerabil și strategic.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-09-08T19:41:43.539087+00:00",
+      "data_afisaj": "8 septembrie 2026, 22:41"
+    },
     {
       "id": "3a54aa2fc6ae",
       "titlu": "Mac Allister, dezamăgit de lipsa unei oferte de prelungire a contractului de la Liverpool",
