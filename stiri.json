@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-09T19:09:28.206002+00:00",
-  "updated_at_afisaj": "9 septembrie 2026, 22:09",
+  "updated_at": "2026-09-09T19:34:53.321473+00:00",
+  "updated_at_afisaj": "9 septembrie 2026, 22:34",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,52 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 140,
+  "numar_stiri": 139,
   "stiri": [
+    {
+      "id": "a8c0ad44eaa0",
+      "titlu": "Echipa feminină Wolves intră într-o nouă eră ca echipă profesionistă",
+      "rezumat": "Echipa feminină Wolverhampton Wanderers a început primul său sezon ca club complet profesionist, marcând o etapă importantă în istoria sa. Această tranziție le permite jucătoarelor să se concentreze pe dezvoltarea lor sportivă, beneficiind de un mediu dedicat performanței. Decizia subliniază angajamentul clubului față de fotbalul feminin și ambiția de a concura la cel mai înalt nivel. Această schimbare este văzută ca un pas esențial pentru a demonstra potențialul și determinarea echipei în competițiile viitoare.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-09T19:34:53.315788+00:00",
+      "data_afisaj": "9 septembrie 2026, 22:34"
+    },
+    {
+      "id": "7cd592eeaebe",
+      "titlu": "Locația Finalei Ligii Campionilor din 2027 a fost stabilită",
+      "rezumat": "Finala Ligii Campionilor din anul 2027 va avea loc într-un oraș european, fiind aleasă o locație considerată accesibilă. Deși detaliile specifice despre orașul gazdă nu sunt menționate în rezumat, confirmarea continentului și a criteriului de accesibilitate subliniază eforturile UEFA de a asigura o experiență optimă pentru fani. Această decizie este importantă pentru planificarea evenimentului major al fotbalului european.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-09-09T19:34:53.317561+00:00",
+      "data_afisaj": "9 septembrie 2026, 22:34"
+    },
+    {
+      "id": "012eb466c84f",
+      "titlu": "Detalii despre tragerea la sorți a turului patru din Carabao Cup",
+      "rezumat": "După disputarea a douăsprezece meciuri din Cupa Ligii Angliei (Carabao Cup) în perioada 9-17 septembrie, atenția se îndreaptă către tragerea la sorți pentru turul al patrulea al competiției. Articolul oferă informații despre echipele calificate și datele programate pentru următoarele etape. Fanii așteaptă cu interes să afle împerecherile pentru a anticipa parcursul echipelor favorite în drumul spre trofeu.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-09-09T19:34:53.319341+00:00",
+      "data_afisaj": "9 septembrie 2026, 22:34"
+    },
+    {
+      "id": "97c44b0766b1",
+      "titlu": "Semnul original \"This Is Anfield\" vândut la licitație pentru 115.000 de lire sterline",
+      "rezumat": "Semnul iconic \"This Is Anfield\", care a stat la intrarea în tunelul stadionului Liverpool, a fost vândut la licitație pentru o sumă impresionantă de 115.000 de lire sterline. Această sumă depășește de aproape opt ori prețul estimat inițial, demonstrând valoarea sentimentală și istorică pe care o are obiectul pentru fanii clubului și colecționari. Vanzarea subliniază importanța simbolurilor în cultura fotbalului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-09T19:34:53.321451+00:00",
+      "data_afisaj": "9 septembrie 2026, 22:34"
+    },
     {
       "id": "9d8453efa1cb",
       "titlu": "Alan Irvine rămâne în staff-ul tehnic al Scoției sub noul antrenor Sebastien Pocognoli",
@@ -1530,61 +1574,6 @@
       ],
       "data_publicare": "2026-09-02T19:35:53.956608+00:00",
       "data_afisaj": "2 septembrie 2026, 22:35"
-    },
-    {
-      "id": "987b3204a96a",
-      "titlu": "Planurile pentru Centrul Național de Antrenament al Irlandei de Nord avansează",
-      "rezumat": "Selecționerul Irlandei de Nord, Michael O'Neill, și-a exprimat speranța că Asociația Irlandeză de Fotbal va putea progresa cu planurile de a deschide un Centru Național de Antrenament până în anul 2028. Această inițiativă este considerată crucială pentru dezvoltarea fotbalului la nivel național și pentru îmbunătățirea infrastructurii sportive din regiune. Proiectul vizează oferirea unor facilități moderne pentru pregătirea jucătorilor și a echipelor naționale, contribuind la creșterea performanțelor pe termen lung.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-02T19:17:17.462672+00:00",
-      "data_afisaj": "2 septembrie 2026, 22:17"
-    },
-    {
-      "id": "84fd05122514",
-      "titlu": "Jucători liberi de contract după încheierea perioadei de transferuri",
-      "rezumat": "După închiderea ferestrei de transferuri din vara anului 2026, mai mulți jucători de fotbal de profil rămân fără club. BBC Sport analizează lista acestor fotbaliști, care acum sunt disponibili pentru transferuri gratuite. Această situație oferă oportunități pentru cluburile care caută să-și întărească loturile în afara perioadei oficiale de transferuri, putând semna cu acești jucători în orice moment.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-02T19:17:17.464098+00:00",
-      "data_afisaj": "2 septembrie 2026, 22:17"
-    },
-    {
-      "id": "7363e9d267b2",
-      "titlu": "Trabzonspor acceptă demisia antrenorului Fatih Tekke",
-      "rezumat": "Clubul turc Trabzonspor a acceptat demisia \"emoțională\" a antrenorului principal Fatih Tekke. Decizia vine după ce inițial clubul refuzase cererea acestuia de a se retrage din funcție. Această schimbare la nivelul băncii tehnice marchează un moment important pentru echipa turcă, care va trebui să găsească un înlocuitor pentru a continua parcursul în campionat.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-02T19:17:17.465396+00:00",
-      "data_afisaj": "2 septembrie 2026, 22:17"
-    },
-    {
-      "id": "6b8e3f5ff330",
-      "titlu": "Richarlison ar putea pleca de la Tottenham la Trabzonspor",
-      "rezumat": "Atacantul lui Tottenham, Richarlison, este ținta unui interes ferm din partea clubului turc Trabzonspor și ar putea face o mutare înainte de închiderea ferestrei de transferuri din Turcia, vineri seară. Jucătorul brazilian și-a exprimat dorința de a pleca, conform declarațiilor antrenorului lui Spurs, Roberto De Zerbi. Această potențială tranzacție ar reprezenta o schimbare majoră pentru cariera atacantului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-02T19:17:17.466666+00:00",
-      "data_afisaj": "2 septembrie 2026, 22:17"
-    },
-    {
-      "id": "86207af01ca2",
-      "titlu": "Sosirea Alexiei Putellas în Women's Super League subliniază creșterea campionatului",
-      "rezumat": "Transferul Alexiei Putellas în Women's Super League (WSL) demonstrează progresul semnificativ al ligii, conform declarațiilor fostei sale colege de la Barcelona, Keira Walsh. Mijlocașul lui Chelsea a reflectat asupra dezvoltării WSL, a ambițiilor lui Chelsea la titlu în primul lor sezon complet pe Stamford Bridge și a importanței venirii unei jucătoare de calibrul Alexiei Putellas în campionat. Această mutare este văzută ca un impuls major pentru vizibilitatea și competitivitatea fotbalului feminin englez.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-09-02T19:17:17.468166+00:00",
-      "data_afisaj": "2 septembrie 2026, 22:17"
     }
   ]
 }
