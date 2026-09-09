@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-09T12:44:53.310791+00:00",
-  "updated_at_afisaj": "9 septembrie 2026, 15:44",
+  "updated_at": "2026-09-09T19:09:28.206002+00:00",
+  "updated_at_afisaj": "9 septembrie 2026, 22:09",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 135,
+  "numar_stiri": 140,
   "stiri": [
+    {
+      "id": "9d8453efa1cb",
+      "titlu": "Alan Irvine rămâne în staff-ul tehnic al Scoției sub noul antrenor Sebastien Pocognoli",
+      "rezumat": "Asistentul lui Everton, Alan Irvine, își va continua rolul în staff-ul tehnic reînnoit al naționalei Scoției, sub conducerea noului antrenor Sebastien Pocognoli. Această decizie marchează o continuitate importantă în structura tehnică a echipei, în timp ce Pocognoli își propune să aducă o nouă viziune. Irvine, cu experiența sa la nivel de club, va contribui la dezvoltarea strategiei naționale, asigurând o tranziție lină și stabilitate în cadrul echipei. Numirea lui Pocognoli și menținerea lui Irvine sugerează o combinație de inovație și experiență pentru viitoarele campanii ale Scoției.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-09T19:09:28.197988+00:00",
+      "data_afisaj": "9 septembrie 2026, 22:09"
+    },
+    {
+      "id": "be8819a34b15",
+      "titlu": "Atacantul rwandez Joy-Lance Mickels vizează istoria Ligii Campionilor împotriva lui Manchester United",
+      "rezumat": "Atacantul rwandez Joy-Lance Mickels a ajutat echipa azeră Sabah să ajungă în faza grupelor Ligii Campionilor la debutul lor în competiție. Acum, el își propune să învingă echipa pe care o susține, Manchester United, într-un meci istoric. Această confruntare reprezintă o ocazie unică pentru Mickels și pentru clubul său, Sabah, de a-și demonstra valoarea pe scena europeană și de a scrie o pagină importantă în istoria fotbalului rwandez și azer. Povestea sa este un exemplu de ascensiune remarcabilă, de la un jucător cu origini modeste la o prezență pe cea mai mare scenă a fotbalului european.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-09T19:09:28.200029+00:00",
+      "data_afisaj": "9 septembrie 2026, 22:09"
+    },
+    {
+      "id": "306d2ac6de2d",
+      "titlu": "Gianni Infantino numește un loialist pentru a supraveghea Caraibele și divizează managementul FIFA",
+      "rezumat": "Președintele FIFA, Gianni Infantino, a separat managementul țărilor din Caraibe de restul confederației CONCACAF, numind un loialist, Gelson Fernandes, pentru a supraveghea regiunea. Această mișcare este percepută de critici ca o încercare de a diviza alianța CONCACAF și de a-și consolida poziția la conducerea FIFA. Modificarea structurii de management vizează, conform FIFA, o abordare mai globală a sportului, dar a stârnit controverse. Oponenții lui Infantino consideră că această decizie ar putea slăbi opoziția internă și ar putea influența viitoarele voturi și decizii la nivel înalt în cadrul organizației.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-09T19:09:28.202009+00:00",
+      "data_afisaj": "9 septembrie 2026, 22:09"
+    },
+    {
+      "id": "42950908a490",
+      "titlu": "Erling Haaland acuză un jucător de la Porto de agresiune în timpul meciului din Liga Campionilor",
+      "rezumat": "Atacantul lui Manchester City, Erling Haaland, a declarat că jucătorul de la Porto, Pablo Rosario, \"l-a apucat de fund\" în timpul victoriei cu 2-0 a echipei sale în Liga Campionilor. Incidentul a avut loc în minutul 92 al meciului, după ce Haaland marcase ambele goluri. Cei doi jucători au fost implicați într-o altercație, au căzut la pământ și au primit cartonașe galbene după ce au fost separați. Haaland a descris incidentul ca fiind \"puțin interesant\", sugerând că Rosario a încercat să-l oprească să marcheze un hat-trick.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-09T19:09:28.203959+00:00",
+      "data_afisaj": "9 septembrie 2026, 22:09"
+    },
+    {
+      "id": "26b4c424b2e3",
+      "titlu": "Michael Carrick entuziasmat de Liga Campionilor, dar îngrijorat de programul derby-ului",
+      "rezumat": "Antrenorul lui Manchester United, Michael Carrick, a declarat că este entuziasmat să conducă echipa în revenirea în \"magica\" Ligă a Campionilor, dar a recunoscut că programul meciului de joi seara nu este ideal, având în vedere derby-ul de duminică. United va primi vizita echipei Sabah din Azerbaidjan pe Old Trafford, după o absență de doi ani din competiție. Clubul azer se află la debutul său în elita europeană, adăugând o presiune suplimentară asupra lui Carrick de a gestiona echilibrul între performanța europeană și cea internă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-09T19:09:28.205978+00:00",
+      "data_afisaj": "9 septembrie 2026, 22:09"
+    },
     {
       "id": "0c6135ceb4e9",
       "titlu": "West Ham United preia conducerea în Championship",
