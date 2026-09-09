@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-08T19:41:43.539107+00:00",
-  "updated_at_afisaj": "8 septembrie 2026, 22:41",
+  "updated_at": "2026-09-09T12:12:32.045178+00:00",
+  "updated_at_afisaj": "9 septembrie 2026, 15:12",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,63 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 138,
+  "numar_stiri": 134,
   "stiri": [
+    {
+      "id": "298ee79f6c9f",
+      "titlu": "Lionel Messi, acord preliminar pentru a deveni acționar majoritar la un club spaniol",
+      "rezumat": "Superstarul argentinian Lionel Messi a ajuns la un acord preliminar pentru a deveni acționar majoritar al clubului spaniol de ligă secundă Eldense. Anunțul a fost făcut de Eldense, confirmând implicarea lui Messi în managementul și proprietatea clubului. Această mișcare marchează o extindere a intereselor de afaceri ale lui Messi în fotbal, adăugând un al doilea club spaniol la portofoliul său. Detaliile complete ale tranzacției urmează să fie finalizate, dar intenția de a prelua controlul majoritar este clară.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-09T12:12:32.038907+00:00",
+      "data_afisaj": "9 septembrie 2026, 15:12"
+    },
+    {
+      "id": "0c0c9d7197a6",
+      "titlu": "Dubla lui Haaland asigură un start ideal pentru Manchester City în Liga Campionilor",
+      "rezumat": "Erling Haaland a marcat două goluri, contribuind decisiv la victoria cu 2-0 a lui Manchester City împotriva echipei Porto în Liga Campionilor. Sub conducerea lui Enzo Maresca, echipa a demonstrat o performanță solidă, obținând trei puncte importante în debutul campaniei europene. Victoria este un impuls semnificativ pentru proiectul incipient al antrenorului Maresca, mai ales având în vedere istoricul recent al lui City cu șase înfrângeri în ultimele nouă meciuri în deplasare în această competiție.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-09T12:12:32.040645+00:00",
+      "data_afisaj": "9 septembrie 2026, 15:12"
+    },
+    {
+      "id": "ba6d36a4e12d",
+      "titlu": "Mourinho consideră că Alexander-Arnold nu este un mijlocaș, în ciuda rolului său la Real Madrid",
+      "rezumat": "Trent Alexander-Arnold a fost titularizat la mijlocul terenului în victoria lui Real Madrid împotriva lui Inter, însă antrenorul Jose Mourinho a declarat că aceasta nu este poziția sa optimă. Mourinho a subliniat că, deși Alexander-Arnold a evoluat în acest rol, calitățile sale ar fi mai bine valorificate într-o altă zonă a terenului. Comentariile antrenorului portughez aduc în discuție dezbaterea continuă privind cea mai bună poziție pentru fundașul englez, un subiect de interes tactic.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-09T12:12:32.042220+00:00",
+      "data_afisaj": "9 septembrie 2026, 15:12"
+    },
+    {
+      "id": "ba87c910ae6c",
+      "titlu": "Chelsea a refuzat o oportunitate de transfer, în ciuda problemelor din mijlocul terenului",
+      "rezumat": "Chelsea a decis să nu urmărească o oportunitate de transfer considerată \"perfectă\" pentru întărirea mijlocului terenului, în ciuda preocupărilor crescânde legate de această zonă a echipei. Antrenorul Xabi Alonso a confirmat că planurile actuale ale primei echipe nu includ aducerea unui alt mijlocaș. Această decizie vine pe fondul presiunii și a analizelor privind performanța compartimentului median, sugerând o încredere în lotul existent sau o strategie diferită pe termen lung a clubului londonez.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-09-09T12:12:32.043656+00:00",
+      "data_afisaj": "9 septembrie 2026, 15:12"
+    },
+    {
+      "id": "6c2d091c5144",
+      "titlu": "Ayyoub Bouaddi impresionează la debutul său ca titular pentru Manchester City în Liga Campionilor",
+      "rezumat": "Tânărul Ayyoub Bouaddi, în vârstă de 18 ani, a avut o prestație matură și impresionantă la primul său meci ca titular pentru Manchester City în Liga Campionilor. Evoluția sa a demonstrat de ce clubul a fost atât de hotărât să-l transfere, confirmând potențialul său de \"bijuterie\" pentru viitor. Bouaddi a reușit să-și depășească vârsta prin jocul său, oferind o perspectivă promițătoare pentru echipa lui Manchester City în competițiile viitoare și atrăgând atenția asupra talentului său.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-09T12:12:32.045159+00:00",
+      "data_afisaj": "9 septembrie 2026, 15:12"
+    },
     {
       "id": "a23a8869a8ac",
       "titlu": "Harry Kane, Jude Bellingham și Declan Rice, nominalizați la Balonul de Aur 2026",
@@ -1463,105 +1518,6 @@
       ],
       "data_publicare": "2026-09-02T12:34:33.011761+00:00",
       "data_afisaj": "2 septembrie 2026, 15:34"
-    },
-    {
-      "id": "1a5187215c07",
-      "titlu": "Deadlines, acrimony and a record as Man City back Maresca for Fernandez deal",
-      "rezumat": "The summer's longest-running transfer saga ends with Manchester City paying a joint-British record fee to bring in midfielder Enzo Fernandez from Chelsea.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-02T12:00:53.194368+00:00",
-      "data_afisaj": "2 septembrie 2026, 15:00"
-    },
-    {
-      "id": "b747d4b37867",
-      "titlu": "Have title contenders done enough in perioada de transferuri to challenge Arsenal?",
-      "rezumat": "As the perioada de transferuri closes for the summer, chief football writer Phil McNulty asks if Arsenal's rivals have done enough to challenge the champions?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-02T12:00:53.195697+00:00",
-      "data_afisaj": "2 septembrie 2026, 15:00"
-    },
-    {
-      "id": "f51a2c9f0311",
-      "titlu": "Are Arsenal taking a risk in not signing a world-class forward?",
-      "rezumat": "Arsenal have been busy in the transfer market as they look to defend their Premier League title, but do they lack a world class striker still?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-02T12:00:53.196997+00:00",
-      "data_afisaj": "2 septembrie 2026, 15:00"
-    },
-    {
-      "id": "22db1b46430e",
-      "titlu": "Feared in attack, light at the back - why Liverpool's perioada de transferuri leaves questions",
-      "rezumat": "Feared in attack but light at the back? Liverpool have spent more than £200m in the perioada de transferuri but questions remain over whether the squad has enough depth.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-02T12:00:53.198375+00:00",
-      "data_afisaj": "2 septembrie 2026, 15:00"
-    },
-    {
-      "id": "82d290535668",
-      "titlu": "Man Utd and their calculated left-back gamble",
-      "rezumat": "Despite a widespread expectation they would sign a left-back this summer, Manchester United decided against - what does it mean?",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-02T12:00:53.199594+00:00",
-      "data_afisaj": "2 septembrie 2026, 15:00"
-    },
-    {
-      "id": "919f43101270",
-      "titlu": "Leeds United ajunge la un acord pentru cel mai rapid jucător din Bundesliga, Gnonto pleacă",
-      "rezumat": "Leeds United a ajuns la un acord pentru a semna cu cel mai rapid jucător din Bundesliga, în timp ce Wilfried Gnonto părăsește clubul. Această mutare strategică indică intenția lui Leeds de a-și îmbunătăți viteza și dinamismul în atac, înlocuind un jucător cheie cu un talent promițător. Detaliile financiare ale tranzacției nu au fost încă publicate, dar se anticipează că va fi o achiziție importantă pentru ambițiile clubului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-09-01T19:42:43.785223+00:00",
-      "data_afisaj": "1 septembrie 2026, 22:42"
-    },
-    {
-      "id": "7af890d9049f",
-      "titlu": "Atacantul Beto părăsește Everton și se alătură Fiorentinei",
-      "rezumat": "Everton a confirmat plecarea atacantului Beto, care se va alătura echipei italiene Fiorentina. Această mutare vine în contextul în care clubul englez a fost activ pe piața transferurilor, inclusiv prin reîntoarcerea lui Jack Grealish sub formă de împrumut. Plecarea lui Beto deschide un nou capitol în cariera sa în Serie A, în timp ce Everton își restructurează ofensiva pentru a-și atinge obiectivele în Premier League.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-01T19:42:43.786787+00:00",
-      "data_afisaj": "1 septembrie 2026, 22:42"
-    },
-    {
-      "id": "a2074f706366",
-      "titlu": "Honest Ahanor, tânărul fundaș, semnează cu Chelsea după un împrumut la Crystal Palace",
-      "rezumat": "Chelsea a anunțat că tânărul fundaș Honest Ahanor se va alătura clubului în 2027, după ce jucătorul de la Atalanta va finaliza un împrumut la Crystal Palace. Această tranzacție complexă implică trei cluburi și demonstrează o strategie pe termen lung a lui Chelsea pentru dezvoltarea talentelor. Ahanor va petrece o perioadă la Crystal Palace pentru a acumula experiență înainte de a se alătura definitiv echipei londoneze.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-01T19:42:43.788553+00:00",
-      "data_afisaj": "1 septembrie 2026, 22:42"
-    },
-    {
-      "id": "83929e92d098",
-      "titlu": "Crystal Palace și Sunderland se luptă pentru transferul lui Malick Fofana de la Lyon",
-      "rezumat": "Crystal Palace încearcă să deturneze mutarea lui Malick Fofana de la Lyon către Sunderland, cele două cluburi din Anglia fiind angrenate într-o bătălie pentru serviciile atacantului. Suma vehiculată pentru transfer este de aproximativ 30 de milioane de lire sterline. Această competiție intensă subliniază interesul crescut pentru tânărul jucător, iar deznodământul este așteptat cu nerăbdare înainte de închiderea ferestrei de transferuri.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-01T19:42:43.790056+00:00",
-      "data_afisaj": "1 septembrie 2026, 22:42"
     }
   ]
 }
