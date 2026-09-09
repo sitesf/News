@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-09T12:12:32.045178+00:00",
-  "updated_at_afisaj": "9 septembrie 2026, 15:12",
+  "updated_at": "2026-09-09T12:44:53.310791+00:00",
+  "updated_at_afisaj": "9 septembrie 2026, 15:44",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,65 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 134,
+  "numar_stiri": 135,
   "stiri": [
+    {
+      "id": "0c6135ceb4e9",
+      "titlu": "West Ham United preia conducerea în Championship",
+      "rezumat": "West Ham United a urcat pe prima poziție în Championship, după o victorie cu 3-2 împotriva echipei Bolton. Căpitanul Jarrod Bowen a fost decisiv, marcând două goluri, inclusiv cel care a asigurat succesul. Această performanță marchează o serie de trei victorii consecutive pentru „Ciocănari”, care speră să lase în urmă dificultățile din sezoanele precedente și să își consolideze poziția în fruntea clasamentului, demonstrând o formă excelentă în debutul campionatului.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-09T12:44:53.303815+00:00",
+      "data_afisaj": "9 septembrie 2026, 15:44"
+    },
+    {
+      "id": "2b00a332e5db",
+      "titlu": "Newcastle United avansează în Cupa Ligii Angliei",
+      "rezumat": "Newcastle United a reușit să se califice în runda următoare a Cupei Ligii Angliei, învingând-o pe Millwall cu scorul de 1-0. Unicul gol al partidei a fost marcat de Joe Willock în minutele de final, asigurând victoria pentru echipa lui Matthias Jaissle. Această calificare reprezintă o continuare a formei bune pentru Newcastle, care a înregistrat cinci meciuri consecutive fără înfrângere sub conducerea noului antrenor, consolidându-și parcursul în competiție.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football",
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-09-09T12:44:53.305400+00:00",
+      "data_afisaj": "9 septembrie 2026, 15:44"
+    },
+    {
+      "id": "acf688ca0ea7",
+      "titlu": "JJ Gabriel, la un pas de a deveni cel mai tânăr debutant al lui Manchester United",
+      "rezumat": "JJ Gabriel, un tânăr fotbalist de doar 15 ani, a atras atenția la Manchester United după ce a marcat două goluri spectaculoase în două apariții în Premier League 2. Performanțele sale remarcabile au stârnit discuții despre o posibilă promovare rapidă la echipa de seniori, ceea ce l-ar putea transforma în cel mai tânăr jucător din istoria clubului care debutează la prima echipă. Talentul său precoce este considerat un semn promițător pentru viitorul „Diavolilor Roșii”.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-09T12:44:53.307270+00:00",
+      "data_afisaj": "9 septembrie 2026, 15:44"
+    },
+    {
+      "id": "d374fec184a8",
+      "titlu": "Revenire emoționantă pe teren pentru Ollie Harfield după o accidentare gravă",
+      "rezumat": "Fundașul echipei Aldershot Town, Ollie Harfield, a revenit pe teren după o absență de 717 zile, cauzată de o accidentare gravă la genunchi care a necesitat nouă diagnostice de „sfârșit de carieră”. Jucătorul a descris momentul revenirii sale ca fiind „ireal”, marcând un triumf personal semnificativ. Perseverența și dedicarea sa au fost esențiale în depășirea obstacolelor medicale și în revenirea la fotbalul profesionist, inspirând prin rezistența sa.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football"
+      ],
+      "data_publicare": "2026-09-09T12:44:53.308994+00:00",
+      "data_afisaj": "9 septembrie 2026, 15:44"
+    },
+    {
+      "id": "2fc73804fe22",
+      "titlu": "Controversă în fotbalul feminin sud-coreean privind tratamentul jucătoarelor",
+      "rezumat": "O presupusă remarcă a unui arbitru, referitoare la menstruație, în timpul unui meci din WK League, a stârnit o amplă controversă în fotbalul feminin sud-coreean. Incidentul, care a implicat-o pe Ji So-yun, golgheterul all-time al Coreei de Sud, a redeschis dezbaterea despre modul în care sunt tratate jucătoarele. Asociația Coreeană de Fotbal a reacționat, iar evenimentul a generat întrebări serioase privind respectul și egalitatea în sportul feminin, subliniind necesitatea unor schimbări.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-09T12:44:53.310768+00:00",
+      "data_afisaj": "9 septembrie 2026, 15:44"
+    },
     {
       "id": "298ee79f6c9f",
       "titlu": "Lionel Messi, acord preliminar pentru a deveni acționar majoritar la un club spaniol",
@@ -1473,51 +1530,6 @@
       ],
       "data_publicare": "2026-09-02T19:17:17.468166+00:00",
       "data_afisaj": "2 septembrie 2026, 22:17"
-    },
-    {
-      "id": "b5dc0f8d1f19",
-      "titlu": "Transferul lui Folarin Balogun la Everton a eșuat",
-      "rezumat": "Mutarea atacantului Folarin Balogun de la Monaco la Everton a căzut în ultimul moment, după o schimbare de decizie a jucătorului. Inițial, Everton ajunsese la un acord de 40 de milioane de lire sterline pentru atacantul american. Eșecul acestei tranzacții vine după ce Everton îl vânduse pe Beto la Fiorentina și pe Iliman Ndiaye la Manchester City, lăsând clubul cu puține opțiuni în atac. Această situație complică serios planurile ofensive ale echipei pentru prima jumătate a sezonului.",
-      "categorie": "Fotbal",
-      "surse": [
-        "Sky Sports Football",
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-02T12:34:33.008834+00:00",
-      "data_afisaj": "2 septembrie 2026, 15:34"
-    },
-    {
-      "id": "d37746f602a5",
-      "titlu": "Premier League stabilește un nou record de cheltuieli pentru transferuri în vară",
-      "rezumat": "Cluburile din Premier League au depășit propriul record de cheltuieli pentru transferuri într-o singură fereastră de vară, ajungând la o sumă totală de 3,198 miliarde de lire sterline. Aceasta este a doua vară consecutivă în care liga engleză stabilește un nou reper financiar în piața transferurilor, subliniind puterea economică continuă a cluburilor din Premier League. Suma impresionantă reflectă investițiile masive făcute de echipe pentru a-și consolida loturile în vederea noului sezon, într-o cursă acerbă pentru performanță.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-02T12:34:33.009823+00:00",
-      "data_afisaj": "2 septembrie 2026, 15:34"
-    },
-    {
-      "id": "166227aff720",
-      "titlu": "Declan Rice de la Arsenal, incert după ce a părăsit terenul accidentat",
-      "rezumat": "Mijlocașul lui Arsenal, Declan Rice, a stârnit îngrijorări în rândul staff-ului tehnic condus de Mikel Arteta, după ce a părăsit terenul șchiopătând în ultimele minute ale victoriei cu 1-0 împotriva lui Aston Villa. Accidentarea sa reprezintă o nouă preocupare pentru \"Tunari\", având în vedere importanța jucătorului în echipa. Se așteaptă o evaluare medicală pentru a determina gravitatea problemei și perioada de indisponibilitate, o veste potențial proastă pentru ambițiile clubului în campionat.",
-      "categorie": "Fotbal",
-      "surse": [
-        "FourFourTwo"
-      ],
-      "data_publicare": "2026-09-02T12:34:33.010771+00:00",
-      "data_afisaj": "2 septembrie 2026, 15:34"
-    },
-    {
-      "id": "5b5ac3e8b003",
-      "titlu": "Costel Gâlcă: „Dinamo e mult mai bună decât cu Kopic pe bancă!”",
-      "rezumat": "Antrenorul Costel Gâlcă a oferit o evaluare tranșantă a situației de la Dinamo, declarând că echipa este \"mult mai bună\" sub actuala conducere tehnică, comparativ cu perioada în care pe bancă se afla Kopic. Gâlcă a lăudat, de asemenea, un antrenor român din noul val, subliniind potențialul acestuia. Declarațiile vin în contextul unei perioade de schimbări la clubul din Ștefan cel Mare și oferă o perspectivă asupra evoluției echipei, sugerând o îmbunătățire a performanțelor sub noua direcție.",
-      "categorie": "Fotbal",
-      "surse": [
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-09-02T12:34:33.011761+00:00",
-      "data_afisaj": "2 septembrie 2026, 15:34"
     }
   ]
 }
