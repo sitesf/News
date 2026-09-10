@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-10T12:07:03.040189+00:00",
-  "updated_at_afisaj": "10 septembrie 2026, 15:07",
+  "updated_at": "2026-09-10T12:43:12.264834+00:00",
+  "updated_at_afisaj": "10 septembrie 2026, 15:43",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -18,6 +18,66 @@
   },
   "numar_stiri": 134,
   "stiri": [
+    {
+      "id": "8c57a59338ec",
+      "titlu": "Mauricio Pochettino își exprimă dorința de a reveni în Premier League",
+      "rezumat": "Fostul antrenor al echipelor Tottenham și Chelsea, Mauricio Pochettino, a declarat că speră să revină în Premier League în viitor. Într-un interviu, el a subliniat că este deschis să ajute Tottenham, indiferent de divizie, dacă circumstanțele ar fi fost diferite în vară. Pochettino a avut o perioadă de pauză după plecarea de la Chelsea și a menționat că a fost contactat de Spurs, ceea ce l-a emoționat. Declarațiile sale sugerează o dorință puternică de a se implica din nou în fotbalul englez de top.",
+      "categorie": "Fotbal",
+      "surse": [
+        "Sky Sports Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-10T12:43:12.257037+00:00",
+      "data_afisaj": "10 septembrie 2026, 15:43"
+    },
+    {
+      "id": "f454b5c19ae4",
+      "titlu": "Martin Odegaard, în forma vieții sale, contribuie la startul excelent al lui Arsenal",
+      "rezumat": "Căpitanul lui Arsenal, Martin Odegaard, a început sezonul într-o formă excepțională, marcând golul victoriei împotriva lui Napoli în Liga Campionilor. Antrenorul Mikel Arteta a atribuit performanțele impresionante ale lui Odegaard atât condiției fizice optime, cât și unei noi poziționări tactice pe teren. Arsenal a trecut cu brio de fiecare test până acum, iar contribuția lui Odegaard este considerată crucială pentru succesul echipei, confirmând că este un jucător transformat.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "Sky Sports Football"
+      ],
+      "data_publicare": "2026-09-10T12:43:12.258969+00:00",
+      "data_afisaj": "10 septembrie 2026, 15:43"
+    },
+    {
+      "id": "ca08452099f5",
+      "titlu": "Chelsea obține o victorie dramatică în Cupa Ligii Angliei după o revenire spectaculoasă",
+      "rezumat": "Chelsea a reușit o victorie spectaculoasă împotriva lui Leeds United în turul trei al Cupei Ligii Angliei, într-un meci cu nouă goluri. Echipa antrenată de Xabi Alonso a avut nevoie de intervenția decisivă a rezervelor pentru a se impune, după ce a fost condusă. Cole Palmer a fost un jucător cheie în această revenire, contribuind semnificativ la calificarea \"albaștrilor\". Deși defensiva a arătat vulnerabilități, capacitatea de a reveni în joc a fost lăudată.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-10T12:43:12.260807+00:00",
+      "data_afisaj": "10 septembrie 2026, 15:43"
+    },
+    {
+      "id": "41cec8cf3e5d",
+      "titlu": "Liverpool începe campania din Liga Campionilor cu o victorie împotriva lui Atletico Madrid",
+      "rezumat": "Liverpool a debutat cu dreptul în campania Ligii Campionilor, învingând Atletico Madrid pe Anfield. Echipa a revenit de la un scor defavorabil pentru a obține victoria, demonstrând rezistență și determinare. Alexis Mac Allister a marcat golul decisiv, contribuind la un start pozitiv în faza grupelor. Această victorie este crucială pentru moralul echipei și pentru stabilirea unui ritm bun în competiția europeană.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-10T12:43:12.262708+00:00",
+      "data_afisaj": "10 septembrie 2026, 15:43"
+    },
+    {
+      "id": "c9a47adfed14",
+      "titlu": "Rangers obține o victorie dramatică, în timp ce Celtic își menține recordul de 100% în Premiership-ul Scoțian",
+      "rezumat": "Rangers a obținut o victorie dramatică în Premiership-ul Scoțian, învingând St Mirren cu 1-0 printr-un gol marcat în prelungiri de Bojan Miovski. Această victorie menține impulsul echipei înainte de cele două derby-uri Old Firm cu rivalii de la Celtic. Între timp, Celtic și-a continuat parcursul perfect, obținând o victorie la limită cu 1-0 împotriva lui St Johnstone, consolidându-și poziția de lider în campionat.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-10T12:43:12.264812+00:00",
+      "data_afisaj": "10 septembrie 2026, 15:43"
+    },
     {
       "id": "56f332d3f3b7",
       "titlu": "Pochettino cere ca Tottenham să primească titlul Premier League din 2016-17",
@@ -1464,62 +1524,6 @@
       ],
       "data_publicare": "2026-09-03T19:11:16.456855+00:00",
       "data_afisaj": "3 septembrie 2026, 22:11"
-    },
-    {
-      "id": "3d777a1a5cf4",
-      "titlu": "Costul suplimentar al jucătorilor din Premier League îngrijorează cluburile europene",
-      "rezumat": "O analiză recentă arată că jucătorii care evoluează deja în Premier League sunt evaluați cu aproximativ 20 de milioane de lire sterline mai mult decât cei din alte ligi europene. Acest 'premium' specific Premier League, care anterior se aplica mai ales jucătorilor englezi, a devenit acum o normă pentru orice fotbalist activ în campionatul britanic. Situația generează îngrijorare în rândul cluburilor de pe continent, care se confruntă cu dificultăți tot mai mari în a concura pe piața transferurilor cu puterea financiară a echipelor din Anglia, afectând echilibrul pieței europene.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-03T12:37:17.291498+00:00",
-      "data_afisaj": "3 septembrie 2026, 15:37"
-    },
-    {
-      "id": "50e7d2387a2f",
-      "titlu": "Manchester City și-a reînnoit costisitor mijlocul terenului, dar a neglijat un înlocuitor pentru Haaland?",
-      "rezumat": "Manchester City a finalizat o restructurare semnificativă a lotului, investind o sumă record de 458 de milioane de lire sterline în Premier League pentru un mijloc nou-nouț. Această sumă impresionantă, deși a adus o revigorare a liniei mediane, ridică semne de întrebare cu privire la strategia clubului. Analiștii se întreabă dacă, în ciuda cheltuielilor masive pentru întărirea mijlocului, echipa a omis să asigure o soluție de rezervă adecvată pentru atacantul principal Erling Haaland, o potențială vulnerabilitate pe termen lung.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-03T12:37:17.293423+00:00",
-      "data_afisaj": "3 septembrie 2026, 15:37"
-    },
-    {
-      "id": "d1e49dad51fa",
-      "titlu": "Lawrence Shankland, dublă decisivă pentru Rangers în victoria cu Falkirk",
-      "rezumat": "Lawrence Shankland a marcat o dublă impresionantă, asigurând victoria echipei Rangers cu scorul de 2-1 împotriva formației Falkirk. Această performanță a adus două victorii consecutive pentru Rangers în Premiership-ul Scoției, după un început de sezon dificil pentru echipa de pe Ibrox, care a suferit modificări semnificative în lot. Golurile lui Shankland au fost cruciale pentru a redresa parcursul echipei și a oferi un impuls moral important în campionat, consolidând poziția sa de lider în atacul lui Rangers.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football",
-        "Sky Sports Football"
-      ],
-      "data_publicare": "2026-09-03T12:37:17.295074+00:00",
-      "data_afisaj": "3 septembrie 2026, 15:37"
-    },
-    {
-      "id": "967a5fd9e693",
-      "titlu": "Noul antrenor al echipei feminine Manchester United promite un stil de joc curajos și ofensiv",
-      "rezumat": "Noul antrenor al echipei feminine Manchester United, Eva Olid, a cerut jucătoarelor sale să adopte o atitudine 'curajoasă' și o 'mentalitate ofensivă' în acest sezon. Olid își propune să implementeze un stil de joc proactiv, menit să aducă rezultate pozitive și să consolideze identitatea echipei. Această declarație subliniază viziunea antrenorului pentru o abordare dinamică pe teren, marcând o nouă eră pentru formația feminină a clubului, cu accent pe inițiativă și dominare în meciuri.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-03T12:37:17.296777+00:00",
-      "data_afisaj": "3 septembrie 2026, 15:37"
-    },
-    {
-      "id": "0459688aa5ad",
-      "titlu": "Celtic finalizează cinci transferuri într-o singură zi, inclusiv Van den Berg și Lotomba",
-      "rezumat": "Clubul scoțian Celtic a anunțat finalizarea a cinci transferuri într-o singură zi, consolidându-și lotul pentru sezonul viitor. Printre noii veniți se numără portarul Sam Johnstone, fost internațional englez, și doi tineri jucători de la Chelsea, Shumaira Mheuka și Landon Emenalo, ambii sub formă de împrumut. De asemenea, au fost aduși Van den Berg și Lotomba. Această serie rapidă de achiziții subliniază intenția lui Celtic de a-și întări echipa în diverse compartimente, vizând performanțe ridicate în competițiile interne și europene.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-03T12:37:17.298595+00:00",
-      "data_afisaj": "3 septembrie 2026, 15:37"
     }
   ]
 }
