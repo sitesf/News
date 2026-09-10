@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-09T19:34:53.321473+00:00",
-  "updated_at_afisaj": "9 septembrie 2026, 22:34",
+  "updated_at": "2026-09-10T12:07:03.040189+00:00",
+  "updated_at_afisaj": "10 septembrie 2026, 15:07",
   "configuratie": {
     "stiri_per_rulare_max": 5,
     "retentie_zile": 7,
@@ -16,8 +16,65 @@
       "GSP.ro"
     ]
   },
-  "numar_stiri": 139,
+  "numar_stiri": 134,
   "stiri": [
+    {
+      "id": "56f332d3f3b7",
+      "titlu": "Pochettino cere ca Tottenham să primească titlul Premier League din 2016-17",
+      "rezumat": "Antrenorul Mauricio Pochettino a declarat că echipa Chelsea ar trebui să fie deposedată de titlul Premier League câștigat în sezonul 2016-17. În acel sezon, echipa sa, Tottenham, a terminat pe locul al doilea. Declarația vine în contextul unor discuții despre integritatea competiției, iar Pochettino susține că decizia ar fi una corectă, având în vedere circumstanțele. Această afirmație a fost preluată de mai multe surse sportive importante.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-10T12:07:03.033075+00:00",
+      "data_afisaj": "10 septembrie 2026, 15:07"
+    },
+    {
+      "id": "5fa541d02928",
+      "titlu": "Antrenorul Valdas Dambrauskas, de la câștigător de concurs TV la Liga Campionilor",
+      "rezumat": "Valdas Dambrauskas, antrenorul lituanian al echipei Sabah, se pregătește să înfrunte Manchester United în Liga Campionilor. Parcursul său este unul neobișnuit, incluzând o perioadă în fotbalul englez la nivel inferior și chiar o victorie la un concurs televizat, \"Vrei să fii milionar?\", unde a câștigat 725 de lire sterline. Povestea sa subliniază o ascensiune remarcabilă de la începuturi modeste la scena europeană de elită, fiind un exemplu de perseverență în cariera sportivă.",
+      "categorie": "Fotbal",
+      "surse": [
+        "BBC Sport Football",
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-10T12:07:03.034769+00:00",
+      "data_afisaj": "10 septembrie 2026, 15:07"
+    },
+    {
+      "id": "85ffa3964fe2",
+      "titlu": "Raphinha strălucește cu o dublă în victoria Barcelonei împotriva lui Feyenoord în Liga Campionilor",
+      "rezumat": "Atacantul brazilian Raphinha a marcat de două ori, contribuind decisiv la victoria categorică a Barcelonei, scor 5-1, împotriva echipei Feyenoord pe Camp Nou, în Liga Campionilor. Această performanță vine după ce Raphinha a fost omis surprinzător de pe lista scurtă pentru Balonul de Aur, demonstrând o formă excelentă. Într-un alt meci din aceeași competiție, Ferran Torres a reușit un hat-trick, ajutând PSG să învingă Slovan Bratislava, completând o seară plină de goluri.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-10T12:07:03.036511+00:00",
+      "data_afisaj": "10 septembrie 2026, 15:07"
+    },
+    {
+      "id": "ac0f330cdac7",
+      "titlu": "Como, debutantă în Liga Campionilor, a reușit un \"miracol\" pentru a juca acasă",
+      "rezumat": "Echipa Como, aflată la debutul său în Liga Campionilor, va putea juca meciurile de acasă pe propriul stadion, după ce a finalizat lucrările de modernizare și a îndeplinit standardele UEFA într-un timp record de 90 de zile. Această realizare evită necesitatea de a disputa partidele la o distanță de 200 de kilometri, permițând fanilor să susțină echipa pe teren propriu în cea mai prestigioasă competiție europeană. Eforturile clubului au fost lăudate pentru eficiența lor.",
+      "categorie": "Fotbal",
+      "surse": [
+        "FourFourTwo"
+      ],
+      "data_publicare": "2026-09-10T12:07:03.038268+00:00",
+      "data_afisaj": "10 septembrie 2026, 15:07"
+    },
+    {
+      "id": "0fce75302c18",
+      "titlu": "Declan Rice susține că poate susține peste 60 de meciuri pe sezon, în ciuda îngrijorărilor Arsenal",
+      "rezumat": "Mijlocașul lui Arsenal, Declan Rice, a declarat că este capabil să joace peste 60 de meciuri pe sezon, în ciuda îngrijorărilor clubului privind volumul său de muncă. Sezonul trecut, Rice a acumulat 69 de apariții pentru Arsenal și naționala Angliei, recunoscând că a primit injecții pentru durere în timpul Cupei Mondiale din cauza unor probleme la spate și ischiogambieri. Clubul monitorizează situația, dar jucătorul este încrezător în rezistența sa fizică și în capacitatea de a performa la cel mai înalt nivel.",
+      "categorie": "Fotbal",
+      "surse": [
+        "The Guardian Football"
+      ],
+      "data_publicare": "2026-09-10T12:07:03.040168+00:00",
+      "data_afisaj": "10 septembrie 2026, 15:07"
+    },
     {
       "id": "a8c0ad44eaa0",
       "titlu": "Echipa feminină Wolves intră într-o nouă eră ca echipă profesionistă",
@@ -1463,117 +1520,6 @@
       ],
       "data_publicare": "2026-09-03T12:37:17.298595+00:00",
       "data_afisaj": "3 septembrie 2026, 15:37"
-    },
-    {
-      "id": "78f140833752",
-      "titlu": "Hull City condamnă abuzurile rasiste la adresa noului transfer Robinio Vaz",
-      "rezumat": "Clubul Hull City a emis o condamnare fermă a abuzurilor rasiste direcționate pe rețelele sociale către noul său atacant, Robinio Vaz. Jucătorul în vârstă de 19 ani a fost transferat sub formă de împrumut de la Roma în ultima zi a perioadei de transferuri. Anunțul mutării sale a generat un val de comentarii denigratoare. Clubul a declarat că lucrează îndeaproape cu autoritățile pentru a identifica și a lua măsuri împotriva celor responsabili de aceste acte de discriminare, subliniind angajamentul său împotriva rasismului în fotbal.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-03T11:59:33.776279+00:00",
-      "data_afisaj": "3 septembrie 2026, 14:59"
-    },
-    {
-      "id": "61395a628bda",
-      "titlu": "Liga argentiniană de fotbal va întrerupe meciurile pentru a-l onora pe Lionel Messi",
-      "rezumat": "Liga de fotbal din Argentina a anunțat că va aduce un omagiu carierei internaționale a lui Lionel Messi prin întreruperea tuturor meciurilor interne în minutul 10, în acest weekend. Gestul simbolic vine în semn de recunoaștere a contribuției excepționale a căpitanului naționalei Argentinei la fotbalul mondial și a succeselor sale remarcabile. Această inițiativă subliniază importanța lui Messi pentru țara sa și impactul profund pe care l-a avut asupra sportului, fiind o modalitate de a celebra moștenirea sa în fața fanilor.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-03T11:59:33.777597+00:00",
-      "data_afisaj": "3 septembrie 2026, 14:59"
-    },
-    {
-      "id": "a6b4b71d1f1b",
-      "titlu": "Women's Super League revine cu un sezon extins și o luptă acerbă pentru titlu",
-      "rezumat": "Women's Super League (WSL) din Anglia se pregătește de startul unui nou sezon, care promite să fie cel mai amplu și mai competitiv de până acum. Campionatul s-a extins la 14 echipe, incluzând trei noi formații, iar piața transferurilor a fost marcată de mutări importante. Lupta pentru titlu se anunță deschisă, cu Manchester City încercând să-și apere coroana. Schimbările includ și modificări la Cupa Ligii, reflectând o creștere continuă a fotbalului feminin în Anglia și la nivel global.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-03T11:59:33.778904+00:00",
-      "data_afisaj": "3 septembrie 2026, 14:59"
-    },
-    {
-      "id": "8787d0715973",
-      "titlu": "Carlos Queiroz revine ca antrenor principal al Ghanei",
-      "rezumat": "Carlos Queiroz a fost renumit în funcția de antrenor principal al echipei naționale masculine de fotbal a Ghanei. Anunțul vine la două luni după ce tehnicianul părea să se fi retras din funcție, în urma eliminării Ghanei de la Cupa Mondială. Queiroz, fost asistent la Manchester United și cu o vastă experiență la nivel internațional, inclusiv la naționale precum Portugalia, Iran și Columbia, va prelua din nou frâiele echipei cu obiectivul de a o pregăti pentru viitoarele competiții.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-03T11:59:33.779960+00:00",
-      "data_afisaj": "3 septembrie 2026, 14:59"
-    },
-    {
-      "id": "f54f6e886f76",
-      "titlu": "Arsenal mizează pe continuitate după ce țintele majore au fost ratate în fereastra de transferuri",
-      "rezumat": "Arsenal a optat pentru o strategie bazată pe continuitate, după ce clubul nu a reușit să aducă nume mari în ultimele ore ale ferestrei de transferuri. Deși antrenorul Mikel Arteta a solicitat o extindere a loturilor de meci, echipa nu a concretizat achiziții de anvergură, precum Vinícius Júnior. Această abordare ridică întrebări despre capacitatea campionilor de a-și consolida lotul, mai ales în contextul în care Manchester City a stabilit un nou record britanic prin transferul lui Enzo Fernández de la Chelsea pentru 125 de milioane de lire sterline.",
-      "categorie": "Fotbal",
-      "surse": [
-        "The Guardian Football"
-      ],
-      "data_publicare": "2026-09-03T11:59:33.781262+00:00",
-      "data_afisaj": "3 septembrie 2026, 14:59"
-    },
-    {
-      "id": "47676078d5c7",
-      "titlu": "Lovitură pentru Dinamo chiar înaintea derby-ului cu FCSB! Căpitanul Cătălin Cîrjan a ieșit accidentat",
-      "rezumat": "(rezumat indisponibil)",
-      "categorie": "Fotbal",
-      "surse": [
-        "GSP.ro",
-        "ProSport.ro"
-      ],
-      "data_publicare": "2026-09-02T19:35:53.952290+00:00",
-      "data_afisaj": "2 septembrie 2026, 22:35"
-    },
-    {
-      "id": "c988401b3ada",
-      "titlu": "How Everton's deadline day debacle leaves owners facing fan mutiny",
-      "rezumat": "Everton's transfer deadline day debacle over Folarin Balogun leaves owners The Friedkin facing fan mutiny, says chief football writer Phil McNulty.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-02T19:35:53.953451+00:00",
-      "data_afisaj": "2 septembrie 2026, 22:35"
-    },
-    {
-      "id": "83493b4321ec",
-      "titlu": "Late-night transfer fallout sparks Chelsea-Monaco row",
-      "rezumat": "How Chelsea, Everton and Monaco all missed out after late-night drama on deadline day. Nizaar Kinsella reports.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-02T19:35:53.954534+00:00",
-      "data_afisaj": "2 septembrie 2026, 22:35"
-    },
-    {
-      "id": "f451f373136e",
-      "titlu": "The 20 most expensive transfers of the summer",
-      "rezumat": "From Enzo Fernandez to Maxence Lacroix, BBC Sport lists the 20 biggest transfers of the summer window.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-02T19:35:53.955506+00:00",
-      "data_afisaj": "2 septembrie 2026, 22:35"
-    },
-    {
-      "id": "deae94360322",
-      "titlu": "Northern Ireland boss O'Neill 'hopeful' training centre plans progress",
-      "rezumat": "Northern Ireland antrenor Michael O'Neill says that he is \"certainly hopeful\" that the Irish Football Association can move forward with plans to have a National Training Centre open by 2028.",
-      "categorie": "Fotbal",
-      "surse": [
-        "BBC Sport Football"
-      ],
-      "data_publicare": "2026-09-02T19:35:53.956608+00:00",
-      "data_afisaj": "2 septembrie 2026, 22:35"
     }
   ]
 }
